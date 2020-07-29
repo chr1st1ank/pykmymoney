@@ -1,4 +1,7 @@
-# Installing the development environment
+# Pykmymoney
+Python bindings to read [kmymoney](https://kmymoney.org/) files.
+
+## Installing the development environment
 
 This project uses [poetry](https://python-poetry.org) which is based on
 [pyenv](https://github.com/pyenv/pyenv). So first get these tools.
